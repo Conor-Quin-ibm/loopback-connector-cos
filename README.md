@@ -21,6 +21,7 @@
 	"apiKeyId": "<api-key-of-your-COS-instance>",
 	"serviceInstanceId": "<resource-instance-id-of-COS>",
 	"IBMSSEKPCustomerRootKeyCrn": "<root-key-crn>",
-	"location": "<LocationConstraint-of-bucket-that-will-be-generated>"
+	"location": "<LocationConstraint-of-bucket-that-will-be-generated>",
+	"bucket": "<name-of-your-cos-bucket>"
 }
 ```
