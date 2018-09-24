@@ -7,6 +7,7 @@
 			<li> 3) service credentials generated for your COS instance </li>
 			<li> 4) an instance of Key Protect created </li>
 			<li> 5) a Key Protect root key created inside</li>
+			<li> 6) A bucket created inside your instance of COS </li>
 	</ul>
 
 <p>Add a new datasource to your APIC app by editing the <b>server/datasources.json</b> file</p>
